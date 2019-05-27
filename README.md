@@ -1,7 +1,7 @@
 宝塔脚本 Bt_Kiriko_Suki V2 支持 Debian/Ubuntu（Update：2019-5-26）
 
 Tos1.  Bt_Kiriko_Suki V2 脚本（Centos）：
-wget -O Bt_Kiriko_Suki.sh https://umaru.uk/Bt_Kiriko_Suki.sh && chmod 755 Bt_Kiriko_Suki.sh && bash Bt_Kiriko_Suki.sh
+wget -O Bt_Kiriko_Suki.sh https://raw.githubusercontent.com/luguo124/Bt_Kiriko_Suki-V2/master/Bt_Kiriko_Suki.sh && chmod 755 Bt_Kiriko_Suki.sh && bash Bt_Kiriko_Suki.sh
 
 
 Tos1.  Bt_Kiriko_Suki V2 脚本（Debian）：
